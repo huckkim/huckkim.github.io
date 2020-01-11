@@ -45,7 +45,8 @@ projects:
 
 topics:
   - name: Cryptography
-
+    image_url: https://cdn.imgbin.com/6/8/11/imgbin-encryption-cryptography-computer-icons-computer-network-key-8ZA7HXDPhETAPutWyjP0A7U46.jpg
+    
   - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
@@ -55,3 +56,4 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png
 
   - name: API Development
+    image_url: https://image.flaticon.com/icons/png/512/627/627558.png
