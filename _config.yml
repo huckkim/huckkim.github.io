@@ -30,9 +30,9 @@ projects:
  social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: Huck Kim
+  # facebook: Huck Kim
   # hackerrank: your_username
-   linkedin: https://www.linkedin.com/in/huck-kim-04b8ba18a/
+  # linkedin: https://www.linkedin.com/in/huck-kim-04b8ba18a/
   # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -41,7 +41,7 @@ projects:
   # instagram: your_username
   # unsplash: your_username
   # vk: your_username
-   website: huckkim.github.io
+  # website: huckkim.github.io
 
 topics:
   - name: Cryptography
